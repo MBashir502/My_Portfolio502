@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={DigitalClock}
               isBlog={false}
-              title="My Plan"
+              title="Digital Clock"
               description="To represent the time, most digital clocks use a seven-segment display. It shows hours, minutes and seconds and can be set to show in both 24 hours and 12 hours format.
               "
               ghLink="https://github.com/MBashir502/DigitalClock_Project-MBashir502"
@@ -35,7 +35,7 @@ function Projects() {
             <ProjectCard
               imgPath={API}
               isBlog={false}
-              title="My Plan"
+              title="Search Method"
               description=""
               ghLink=""
             />
@@ -44,7 +44,7 @@ function Projects() {
             <ProjectCard
               imgPath={loginPage}
               isBlog={false}
-              title="My Plan"
+              title="Login Page"
               description="
               "
               ghLink="https://github.com/MBashir502/LoginPage_Responsive"
@@ -54,7 +54,7 @@ function Projects() {
             <ProjectCard
               imgPath={NewsAPI}
               isBlog={false}
-              title="My Plan"
+              title="News API"
               description="
               "
               ghLink=""
@@ -64,7 +64,7 @@ function Projects() {
             <ProjectCard
               imgPath={product}
               isBlog={false}
-              title="My Plan"
+              title="Filter Method"
               description="
               "
               ghLink=""

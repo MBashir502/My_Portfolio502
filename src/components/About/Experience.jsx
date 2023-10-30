@@ -130,6 +130,7 @@ const Experience = () => {
               {/* <footer className="blockquote-footer"></footer> */}
             </div>
             <hr />
+           
           </blockquote>
         </Card.Body>
       </Card>

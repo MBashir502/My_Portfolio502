@@ -6,6 +6,7 @@ import web from "../../Assets/Cerificates/web.png";
 import wordpress from "../../Assets/Cerificates/wordpress.png";
 import cyberSecurity from "../../Assets/Cerificates/cyberSecurity.png";
 import corvit from "../../Assets/Cerificates/corvit.png";
+import internship from "../../Assets/Cerificates/InternshipLeatter.png";
 const Certificates = () => {
   return (
     <Container fluid className="project-section">
@@ -27,6 +28,9 @@ const Certificates = () => {
           </Col>
           <Col md={6} className="project-card">
             <CertificateCard img={corvit} title={"CyberSecurity"} />
+          </Col>
+          <Col md={6} className="project-card">
+            <CertificateCard img={internship} title={"Internship Letter"} />
           </Col>
         </Row>
       </Container>
