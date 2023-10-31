@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Muhammad_Bashir/static/css/main.39d420ef.css",
+    "main.js": "/Muhammad_Bashir/static/js/main.63948b5e.js",
+    "static/js/787.7aab9011.chunk.js": "/Muhammad_Bashir/static/js/787.7aab9011.chunk.js",
+    "static/media/Digital_Clock.png": "/Muhammad_Bashir/static/media/Digital_Clock.b07a69d243bcda63f5ab.png",
+    "static/media/NewsAPI.png": "/Muhammad_Bashir/static/media/NewsAPI.66eb6cf0ade0aec5a348.png",
+    "static/media/product.png": "/Muhammad_Bashir/static/media/product.499d28a4fb2a9f19e13b.png",
+    "static/media/web.png": "/Muhammad_Bashir/static/media/web.0c78c7cf88423c1947be.png",
+    "static/media/MuhammadBashir.pdf": "/Muhammad_Bashir/static/media/MuhammadBashir.52f75ff8a9b79100b282.pdf",
+    "static/media/API.png": "/Muhammad_Bashir/static/media/API.c38dc51719e6f2df75af.png",
+    "static/media/cyberSecurity.png": "/Muhammad_Bashir/static/media/cyberSecurity.91c2d76beb4950afc35a.png",
+    "static/media/loginPage.png": "/Muhammad_Bashir/static/media/loginPage.daabe8e3ea9b23d1ab2d.png",
+    "static/media/corvit.png": "/Muhammad_Bashir/static/media/corvit.4d5ca648b01cb279dcd1.png",
+    "static/media/profilePic.jpg": "/Muhammad_Bashir/static/media/profilePic.39df9e5efc22795d3187.jpg",
+    "static/media/home-main.svg": "/Muhammad_Bashir/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Muhammad_Bashir/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/InternshipLeatter.png": "/Muhammad_Bashir/static/media/InternshipLeatter.be061b52d2d40ed926be.png",
+    "static/media/mbashir502.png": "/Muhammad_Bashir/static/media/mbashir502.14c8797c1312dbc7244e.png",
+    "static/media/wordpress.png": "/Muhammad_Bashir/static/media/wordpress.fa8313d7c98f8a837987.png",
+    "static/media/home-bg.jpg": "/Muhammad_Bashir/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Muhammad_Bashir/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Muhammad_Bashir/index.html",
+    "main.39d420ef.css.map": "/Muhammad_Bashir/static/css/main.39d420ef.css.map",
+    "main.63948b5e.js.map": "/Muhammad_Bashir/static/js/main.63948b5e.js.map",
+    "787.7aab9011.chunk.js.map": "/Muhammad_Bashir/static/js/787.7aab9011.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d420ef.css",
+    "static/js/main.63948b5e.js"
+  ]
+}
